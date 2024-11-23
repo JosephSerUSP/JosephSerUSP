@@ -1,4 +1,5 @@
-## Hi there 👋
+I'm Jo, a thirtysomething from Santos, Brazil, currently enrolled in a Visual Arts degree at the Universidade de São Paulo.
+I am an RPG Maker enthusiast and have been making art, assets and games for as long as I remember. 
 
 <!--
 **JosephSerUSP/JosephSerUSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
